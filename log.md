@@ -10,6 +10,17 @@
 
 **Link to work:** Not deployed yet
 
+### Day 1: September 21, 2022
+
+**Today's progress**: I learnt how to use material-ui/core
+
+**Thoughts:** Since coding up some parts of some designs could be tenious, I opt to learn and practise building those parts using material-ui/core, component API using the Grow, Grid and so on
+
+**Language:** JavaScript
+
+**Link to work:** None
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
