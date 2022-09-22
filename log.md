@@ -20,6 +20,16 @@
 
 **Link to work:** None
 
+### Day 2: September 22, 2022
+
+**Today's progress**: I practised using redux-thunk 
+
+**Thoughts:** With thunk I was able to confide some of my implementations, and I also used it mostly for data fetching which was fun.
+
+**Language:** JavaScript
+
+**Link to work:** None
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
